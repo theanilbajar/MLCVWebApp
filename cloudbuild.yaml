@@ -16,7 +16,7 @@ steps:
   args:
   - run
   - --filename=k8s/
-  - --location=us-west1-b
+  - --location=us-west1-c
   - --cluster=project-kube
 options:
  logging: CLOUD_LOGGING_ONLY
