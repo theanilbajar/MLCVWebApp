@@ -18,3 +18,5 @@ steps:
   - --filename=k8s/
   - --location=us-west1-b
   - --cluster=project-kube
+- options:
+ logging: CLOUD_LOGGING_ONLY
